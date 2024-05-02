@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+cmake*
+aritmix
+
 # Precompiled Headers
 *.gch
 *.pch
