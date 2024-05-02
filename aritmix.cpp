@@ -378,7 +378,7 @@ int main(int argc, char** argv) {
     } else {
         for(int i = 1; i < argc; i++) {
             std::string arg = argv[i];
-            std::cout << "expressao: " << i << ": " << arg << std::endl;
+            std::cout << "expressao: " << arg << std::endl;
             std::cout << "resultado: " << analisarInfixa(arg) << endl;
             break;
         }
