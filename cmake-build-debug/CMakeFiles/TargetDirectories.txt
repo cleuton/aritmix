@@ -1,0 +1,3 @@
+/home/cleuton/Documents/projetos/aritmix/cmake-build-debug/CMakeFiles/aritmix.dir
+/home/cleuton/Documents/projetos/aritmix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cleuton/Documents/projetos/aritmix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
